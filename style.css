@@ -69,7 +69,7 @@ body {
   align-items: center;
   height: 80px;
   position: absolute;
-  bottom: 5%;
+  bottom: 2%;
   left: 5%;
   overflow: hidden;
 }
@@ -97,7 +97,7 @@ body {
   height: 80px;
   line-height: 1;
   font-size: clamp(40px, 10vw, 80px);
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 .percentage {
